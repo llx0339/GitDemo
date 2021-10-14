@@ -1,3 +1,6 @@
 hello world!
-modified
-111
+<<<<<<< HEAD
+111111
+=======
+22222
+>>>>>>> hot-fix
